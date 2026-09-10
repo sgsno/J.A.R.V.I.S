@@ -1,0 +1,11 @@
+{
+    "gemini_api_key": "AQ.Ab8RN6IAkRf57ttZlAHvxLt3kolfpdhQSRRoiD8ZUZsiHAgcTw",
+    "os_system": "windows",
+    "morning_brief_enabled": false,
+    "input_device": "SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)",
+    "output_device": "Speakers (Razer Kraken V3 X)",
+    "assistant_name": "Jarvis",
+    "user_name": "Maison",
+    "ui_color": "#00d4ff",
+    "wake_word_enabled": true
+}

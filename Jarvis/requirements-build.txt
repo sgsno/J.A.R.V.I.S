@@ -1,0 +1,2 @@
+# Windows-only: used by build_exe.ps1 to produce Mark-LIII.exe
+pyinstaller>=6.10
